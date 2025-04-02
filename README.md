@@ -1,1 +1,1 @@
-Projeto para exercitar a adição de vídeos importados e exportados em páginas web. 
+Projeto para exercitar a adição de vídeos importados e exportados em páginas web. '
