@@ -1,5 +1,13 @@
 #body
 {
-    background-image: url(/img/wbf6f3zotmb51.png)
+    background-image: url(/img/wbf6f3zotmb51.png); 
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+.text
+{
+
+
 
 }
